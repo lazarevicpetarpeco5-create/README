@@ -1,4 +1,4 @@
-# README
+# README learning journal + showcase.****
 
 
 ## Week 1
