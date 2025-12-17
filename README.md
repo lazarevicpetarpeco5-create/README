@@ -1,5 +1,5 @@
 # README learning journal + showcase.
-## Hi, I'm Petar 👋
+## Hello, I'm Petar 👋
 
 I'm learning software development and documenting my journey.
 
@@ -16,6 +16,9 @@ I'm learning software development and documenting my journey.
 - Email: lazarevicpetar.peco5@gmail.com
 
 ## Week 1
+
+Started TOP (the odin project)
+## Foundations Course 20% Complete
 
 
 
