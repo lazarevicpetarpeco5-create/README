@@ -1,0 +1,2 @@
+# README
+learning journal + showcase.
