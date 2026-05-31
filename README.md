@@ -10,7 +10,7 @@ I'm learning software development and documenting my journey.
 - Web development basics (HTML,CSS,JavaScript) ( Basics Done)
 
 ### 📂 Projects
-- Pong (C and Raylib lib)
+- Pong (C and Raylib lib) Done
 
 
 ### 📫 How to reach me
