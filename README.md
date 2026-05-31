@@ -4,21 +4,17 @@
 I'm learning software development and documenting my journey.
 
 ### 🌱 Currently Learning
-- Python
+- Main Learning is at C rn
+- Python ( Basics Done )
 - Git & GitHub
-- Web development basics (HTML,CSS,JavaScript)
+- Web development basics (HTML,CSS,JavaScript) ( Basics Done)
 
 ### 📂 Projects
-- Calculator (Python)
-- To-do app (in progress)
+- Pong (C and Raylib lib)
+
 
 ### 📫 How to reach me
 - Email: lazarevicpetar.peco5@gmail.com
-
-## Week 1
-
-Started TOP (the odin project)
-## Foundations Course 20% Complete
 
 
 
